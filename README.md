@@ -1,2 +1,2 @@
 # resume
-PDF of my resume
+clickable PDF of my resume
